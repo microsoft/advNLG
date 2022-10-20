@@ -1,6 +1,6 @@
 # Microsoft-AdvNLG
 
-This repo contains a series of Microsoft's works on adversarial natural language generation.
+This repo contains a series of works on natural language generation.
 
 ## News
 
